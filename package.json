@@ -1,0 +1,16 @@
+{
+  "name": "vue_muke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "^2.5.11",
+    "vue-resource": "^1.3.4"
+  }
+}
